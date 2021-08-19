@@ -7,6 +7,6 @@ Projeto baseado no ensinamento tutorial do Curso Udemy Java do Profº Dr.Nelio A
 
 * Utilizei o conceito matriz bidmensional e laço for e If.
 
-* No for a i ou j < mat.length poderia ser usado i ou j < n
+* No for na letra-> i e também j < mat.length poderia ser usado i e j < n
 * lembrete que (i) é linha e (j)coluna.
 
