@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enetr numbers [][] matriz: ");
+        System.out.println("Enter numbers [][] matriz: ");
         int m = sc.nextInt();
         int n = sc.nextInt();
         int [][] mat = new int [m][n];
