@@ -3,7 +3,7 @@
 Projeto baseado no ensinamento tutorial do Curso Udemy Java do Profº Dr.Nelio Alves.
 
 * Ao refazer o programa decidi colocar as frases para que pergunte ao usuário o que ele deve fazer, pois não existia no programa inicial.
-* E também inclui a parte que conta quando números negaivos contém na matriz.
+* E também criei o código que conta quantos números negativos contém na matriz.
 
 * Utilizei o conceito matriz bidmensional e laço for e If.
 
